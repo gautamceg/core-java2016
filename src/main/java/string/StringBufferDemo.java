@@ -6,7 +6,7 @@ public class StringBufferDemo {
 		// TODO Auto-generated method stub
 		StringBuffer sb = new StringBuffer("string");
 		sb.append("buffer");
-		
+		System.out.println(sb);
 
 	}
 
